@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 📫 How to reach me: [@harshhvv](https://www.instagram.com/harshhvv/)  on instagram
-- 🌱 I’m currently learning Pentesting, Linux
-- Skillset: C/C++, Python, iOS app development
-- 🔭 Cybersecurity enthusiast
-- ⚡ Fun fact: I can fall asleep almost anywhere within 2 minutes
+- 📫 How to reach me: [@Parth](https://www.linkedin.com/in/parth-setia-437a5023a/)  on Linkedin
+- 🌱 I’m currently learning Solidity and web3.js .
+- Skillset: C/C++, Python, web development.
+- 🔭 Currently learning Blockchain.
+- ⚡ Fun fact: I am always ready to hit gym.
 
 ![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parthsetia1&show_icons=true&count_private=true&theme=omni) 
 <br>
